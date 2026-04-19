@@ -5,7 +5,7 @@
 // ─────────────────────────────────────────────────────────────────────────────
 
 // ── CONFIG (only edit these two lines) ───────────────────────────────────────
-var CAPI_URL        = 'YOUR_RAILWAY_URL';          // e.g. https://am-realty-capi.up.railway.app
+var CAPI_URL        = 'https://am-realty-capi-production.up.railway.app';
 var FUNNEL_SOURCE   = 'funnel-b';
 var SOURCE_URL      = 'https://amrealtyltd.com/discover';
 // ─────────────────────────────────────────────────────────────────────────────
